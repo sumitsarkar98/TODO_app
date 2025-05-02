@@ -1,3 +1,4 @@
+#deleted .env 
 Built With:
 Frontend: React / HTML / CSS / JavaScript
 Optional Backend: Node.js + Express
